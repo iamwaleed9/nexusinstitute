@@ -1,0 +1,8 @@
+{
+  "name": "Nexus IT Institute LMS",
+  "description": "A premium, SaaS-style Learning Management System designed for professional IT institutes, featuring role-based dashboards for students, instructors, and admins with a modern, tech-focused UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,8 @@
+/* Minimal styles placeholder for Netlify/Vite build */
+:root {
+  --bg: #f8fafc;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+}
